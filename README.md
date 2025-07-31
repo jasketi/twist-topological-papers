@@ -32,7 +32,7 @@ Each paper is hosted in a dedicated GitHub repository, including source material
 ## 🗓 Release and Priority Timestamp
 
 - **Date of first full public release:** `July 31, 2025`  
-- **Git commit hash:** `[insert commit hash here after first push]`
+- **Git commit hash:** `[1361c3320d328563e78dbdb51742a9d5e0722787]`
 
 This repository serves as the earliest joint publication of all three manuscripts. The commit hash and repository state at this date provide a verifiable timestamp of authorship and content.
 
