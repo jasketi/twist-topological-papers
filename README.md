@@ -6,7 +6,7 @@ This repository serves as a **meta overview** and **public timestamp** for the t
 
 ## 📚 Included Papers (PDFs)
 
-All papers are timestamped and released together on **July 26, 2025** to ensure public transparency, priority documentation, and cross-referencing.
+All papers are timestamped and released together on **July 31, 2025** to ensure public transparency, priority documentation, and cross-referencing.
 
 | Title | Domain | Link |
 |-------|--------|------|
@@ -14,7 +14,7 @@ All papers are timestamped and released together on **July 26, 2025** to ensure 
 | **Twist–Topological Phenomenology** | Cosmology / Observables | [`papers/Phenomenology.pdf`](papers/Phenomenology.pdf) |
 | **Twist-Topological Ontology** | Philosophy / Ontology | [`papers/Philosophy.pdf`](papers/Twist-Topological Ontology.pdf) |
 
-A one-page overview of all abstracts is available as [`OnePager.pdf`](OnePager.pdf).
+A one-page overview of all abstracts is available as [`OnePager`](Twist_Topological_OnePager_English.pdf).
 
 ---
 
@@ -22,15 +22,14 @@ A one-page overview of all abstracts is available as [`OnePager.pdf`](OnePager.p
 
 Each paper has its own GitHub repository with code, data, or supplementary material where appropriate:
 
-- [Phenomenology](https://github.com/jasketi/twist-topological-phenomenology)  
-- [Foundations (Formal Gravity)](https://github.com/jasketi/twist-topological-foundations)  
+- [Phenomenology](https://github.com/jasketi/twist-phenomenology))  
+- [Foundations (Formal Gravity)](https://github.com/jasketi/twist-foundations)
 - [Philosophy](https://github.com/jasketi/twist-philosophy-structure)
-
 ---
 
 ## 🗓 Release and Priority
 
-**First public release:** `July 26, 2025`  
+**First public release:** `July 31, 2025`  
 **Git commit hash:** `[insert-hash-here]`  
 This repository documents the earliest joint public appearance of all three manuscripts. For citation or verification, this timestamped commit may serve as reference.
 
