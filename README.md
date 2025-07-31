@@ -22,7 +22,7 @@ A one-page overview of all abstracts is available as [`OnePager`](Twist_Topologi
 
 Each paper has its own GitHub repository with code, data, or supplementary material where appropriate:
 
-- [Phenomenology](https://github.com/jasketi/twist-phenomenology))  
+- [Phenomenology](https://github.com/jasketi/twist-phenomenology)
 - [Foundations (Formal Gravity)](https://github.com/jasketi/twist-foundations)
 - [Philosophy](https://github.com/jasketi/twist-philosophy-structure)
 ---
