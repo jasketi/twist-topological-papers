@@ -1,43 +1,46 @@
 # Twist–Topological Research Papers
 
-This repository serves as a **meta overview** and **public timestamp** for the three core papers that outline the twist-topological framework developed by Jörg Ascher. Together, these works connect quantum gravity, cosmological phenomenology, and ontological foundations into a unified structural paradigm.
+This repository serves as the **meta overview** and **first public release** for the three core papers outlining the twist–topological framework developed by **Jörg Ascher**. Together, these works form a structural synthesis of quantum gravity, cosmological phenomenology, and ontological foundations.
 
 ---
 
 ## 📚 Included Papers (PDFs)
 
-All papers are timestamped and released together on **July 31, 2025** to ensure public transparency, priority documentation, and cross-referencing.
+All papers were released together on **July 31, 2025** to ensure transparency, public timestamping, and long-term traceability.
 
-| Title | Domain | Link |
+| Title | Domain | PDF |
 |-------|--------|------|
-| **Twist–Topological Gravity: Formal Foundations and Minimal Cosmology** | Quantum Gravity / Geometry | [`papers/Foundations.pdf`](papers/Foundations.pdf) |
-| **Twist–Topological Phenomenology** | Cosmology / Observables | [`papers/Phenomenology.pdf`](papers/Phenomenology.pdf) |
-| **Twist-Topological Ontology** | Philosophy / Ontology | [`papers/Philosophy.pdf`](papers/Twist-Topological Ontology.pdf) |
+| **Twist–Topological Gravity: Formal Foundations and Minimal Cosmology** | Quantum Gravity / Geometry | [`papers/Twist_Topological_Foundations_JAS310725.pdf`](papers/Twist_Topological_Foundations_JAS310725.pdf) |
+| **Twist–Topological Phenomenology** | Cosmology / Observables | [`papers/Twist_Topological_Phenomenology_JAS310725.pdf`](papers/Twist_Topological_Phenomenology_JAS310725.pdf) |
+| **Twist–Topological Ontology** | Philosophy / Ontology | [`papers/Twist_Topological_Ontology_JAS310725.pdf`](papers/Twist_Topological_Ontology_JAS310725.pdf) |
 
-A one-page overview of all abstracts is available as [`OnePager`](Twist_Topological_OnePager_English.pdf).
+A compact overview of all three abstracts is available as:  
+📄 [`Twist_Topological_OnePager_English.pdf`](Twist_Topological_OnePager_English.pdf)
 
 ---
 
 ## 🔗 Sub-Repositories
 
-Each paper has its own GitHub repository with code, data, or supplementary material where appropriate:
+Each paper is hosted in a dedicated GitHub repository, including source material, data, and reproducibility infrastructure where applicable:
 
-- [Phenomenology](https://github.com/jasketi/twist-phenomenology)
-- [Foundations (Formal Gravity)](https://github.com/jasketi/twist-foundations)
-- [Philosophy](https://github.com/jasketi/twist-philosophy-structure)
+- 🔬 [Phenomenology → github.com/jasketi/twist-phenomenology](https://github.com/jasketi/twist-phenomenology)
+- 📐 [Foundations → github.com/jasketi/twist-foundations](https://github.com/jasketi/twist-foundations)
+- 🧠 [Philosophy → github.com/jasketi/twist-philosophy-structure](https://github.com/jasketi/twist-philosophy-structure)
+
 ---
 
-## 🗓 Release and Priority
+## 🗓 Release and Priority Timestamp
 
-**First public release:** `July 31, 2025`  
-**Git commit hash:** `[insert-hash-here]`  
-This repository documents the earliest joint public appearance of all three manuscripts. For citation or verification, this timestamped commit may serve as reference.
+- **Date of first full public release:** `July 31, 2025`  
+- **Git commit hash:** `[insert commit hash here after first push]`
+
+This repository serves as the earliest joint publication of all three manuscripts. The commit hash and repository state at this date provide a verifiable timestamp of authorship and content.
 
 ---
 
 ## 📜 Citation and Licensing
 
-All content is © Jörg Ascher. You may cite individual papers as indicated in the respective PDFs. For academic use, please refer to the upcoming arXiv and journal versions.
+All content © Jörg Ascher.  
+Please cite individual papers as indicated within their PDFs or journal versions. This meta-repository is intended for transparent documentation and academic reference.
 
-If you have questions or collaboration inquiries, feel free to contact the author directly.
-
+> For questions, feedback, or collaboration inquiries, please contact the author directly.
