@@ -1,4 +1,4 @@
-# Twist–Topological Research Papers – Jörg Ascher
+# Twist–Topological Research Papers
 
 This repository serves as a **meta overview** and **public timestamp** for the three core papers that outline the twist-topological framework developed by Jörg Ascher. Together, these works connect quantum gravity, cosmological phenomenology, and ontological foundations into a unified structural paradigm.
 
@@ -12,7 +12,7 @@ All papers are timestamped and released together on **July 26, 2025** to ensure 
 |-------|--------|------|
 | **Twist–Topological Gravity: Formal Foundations and Minimal Cosmology** | Quantum Gravity / Geometry | [`papers/Foundations.pdf`](papers/Foundations.pdf) |
 | **Twist–Topological Phenomenology** | Cosmology / Observables | [`papers/Phenomenology.pdf`](papers/Phenomenology.pdf) |
-| **Philosophie der twist-topologischen Struktur** | Philosophy / Ontology | [`papers/Philosophy.pdf`](papers/Philosophy.pdf) |
+| **Twist-Topological Ontology** | Philosophy / Ontology | [`papers/Philosophy.pdf`](papers/Twist-Topological Ontology.pdf) |
 
 A one-page overview of all abstracts is available as [`OnePager.pdf`](OnePager.pdf).
 
